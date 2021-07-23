@@ -1,0 +1,45 @@
+body{
+margin:1 auto;
+background-image:url("tech.jpg");
+background-repeat:no-repeat;
+background-size:100% 1080px;
+}
+
+.container{
+width:500px;
+height:450px;
+text-align:center;
+margin:0 auto;
+background-color:rgba(44,62,80,0.7);
+margin-top:160px;
+}
+.container img{
+width:150px;
+height:150px;
+margin-top:-60px;
+}
+
+input[type="text"],input[type="password"]{
+margin-top:30px;
+height:45px;
+width:300px;
+font-size:18px;
+margin-bottom:20px;
+background-color:#fff;
+padding-left:40px;
+}
+.btn-login{
+padding:15px 25px;
+border:20px;
+bacground-color:white;
+box-sizing:border box;
+btn-login color:blue;
+color:black;
+}
+
+.btn-Register{
+padding:15px 25px;
+border:20px;
+btn-register color:none;
+color:blue;
+}
